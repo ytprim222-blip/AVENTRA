@@ -1,0 +1,6 @@
+{
+  "name": "AVENTRA",
+  "description": "An ultra-realistic cinematic luxury event planner, commercial player, and interactive storyboard builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
